@@ -4,3 +4,4 @@
 - Creating models
 - creating paths
 - Using apps
+- Database CRUD
